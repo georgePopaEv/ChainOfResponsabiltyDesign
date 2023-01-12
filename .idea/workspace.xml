@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ba9f00-ee04-4bf5-9c5a-840a31b48d7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChainOfResponsabilityExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DispenseChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="34ba9f00-ee04-4bf5-9c5a-840a31b48d7a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,11 +72,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673501020905</updated>
-      <workItem from="1673501022635" duration="1934000" />
+      <workItem from="1673501022635" duration="2259000" />
     </task>
+    <task id="LOCAL-00001" summary="I have created an example of chain of responsability , and as a given example I gave an atm, which once you go to withdorw from accound firstly you chech the balance and try to withdraw ( all time in real live will be multiple of 10) so like in real life I have implemented to be only 10 multiple. Get back at the process , you enter the amount what you want to withdraw, In back of atm a request was raised and sent to main atm's computer to colculate bill banctotes... Exactly how chain design works, first of all the computer check if it can give you the bigeast bill, if not go above and change less and less the bill value , till all amount was distributed">
+      <created>1673504592717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673504592717</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I have created an example of chain of responsability , and as a given example I gave an atm, which once you go to withdorw from accound firstly you chech the balance and try to withdraw ( all time in real live will be multiple of 10) so like in real life I have implemented to be only 10 multiple. Get back at the process , you enter the amount what you want to withdraw, In back of atm a request was raised and sent to main atm's computer to colculate bill banctotes... Exactly how chain design works, first of all the computer check if it can give you the bigeast bill, if not go above and change less and less the bill value , till all amount was distributed" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have created an example of chain of responsability , and as a given example I gave an atm, which once you go to withdorw from accound firstly you chech the balance and try to withdraw ( all time in real live will be multiple of 10) so like in real life I have implemented to be only 10 multiple. Get back at the process , you enter the amount what you want to withdraw, In back of atm a request was raised and sent to main atm's computer to colculate bill banctotes... Exactly how chain design works, first of all the computer check if it can give you the bigeast bill, if not go above and change less and less the bill value , till all amount was distributed" />
   </component>
 </project>
